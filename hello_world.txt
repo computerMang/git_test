@@ -1,0 +1,1 @@
+This is a test. I am entering text into this TXT file from VSCode and will add file to staging, and then commit using CLI.
